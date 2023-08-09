@@ -3,6 +3,7 @@
 2 app: app folder is where all our  app folder is a new feature of next 13.
    - page.js: first page.js in the app folder is the home page
    - created about,project,shop page in app folder.
+   - components folder is created inside of app folder.
 
 3 node_modules: all the default node packages and downloaded npm packages are stored in node_modules folder.
 
