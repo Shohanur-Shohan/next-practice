@@ -1,7 +1,8 @@
 1 .Next: When we want to upload our project on a server. we need to build .next folder using npm run build.
 
 2 app: app folder is where all our  app folder is a new feature of next 13.
-   - page.js: first page.js in the app folder is the home page
+   - page.js: first page.js in the app folder is the root home page.
+   - layout.js: first layout.js in the app folder is the root layout page. Inside of layout.js we inport page.js as a children.
    - created about,project,shop page in app folder.
 
 3 Components:  all the components are stored in Components folder.
