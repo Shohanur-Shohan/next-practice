@@ -3,19 +3,20 @@
 2 app: app folder is where all our  app folder is a new feature of next 13.
    - page.js: first page.js in the app folder is the home page
    - created about,project,shop page in app folder.
-   - components folder is created inside of app folder.
 
-3 node_modules: all the default node packages and downloaded npm packages are stored in node_modules folder.
+3 Components:  all the components are stored in Components folder.
 
-4 Public: all our static files like logo, images, audio, video are stored in the public folder.
+4 node_modules: all the default node packages and downloaded npm packages are stored in node_modules folder.
 
-5 gitignore: some files we dont want to upload in github repository are listed here.
+5 Public: all our static files like logo, images, audio, video are stored in the public folder.
 
-6 next.config: In this file we can add reactStrictMode, basepath, environment variables,headers, 
+6 gitignore: some files we dont want to upload in github repository are listed here.
+
+7 next.config: In this file we can add reactStrictMode, basepath, environment variables,headers, 
                poweredByHeader, manage caching etc for our application. 
 
-7 package.json: project name, version,scripts and Installed packages version are listed here.
+8 package.json: project name, version,scripts and Installed packages version are listed here.
 
-8.postcss and tailwind.css: Builtin.
+9 postcss and tailwind.css: Builtin.
 
 
